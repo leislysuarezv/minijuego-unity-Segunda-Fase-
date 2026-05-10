@@ -23,3 +23,4 @@ Durante el desarrollo se implementaron diferentes sistemas como el control del j
 
 ## Objetivo del juego
 Lograr el mayor porcentaje de precisión posible al completar el circuito.
+
